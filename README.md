@@ -19,6 +19,8 @@ In Python, you can do most things just by calling a one-line function from impor
 
 there's no need to declare your variables first. In Python, just think of any name to give your variable and assign it a value. You can use that variable in your program. So, in Python, you can declare variables whenever you need them.
 
+# String
+
 # Data Types
 
 Lists are enclosed in square brackets [ ] and they are mutable.
