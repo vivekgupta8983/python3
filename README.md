@@ -45,6 +45,7 @@ print(f"This is my {0} age I am {1}".format(20, Vivek))
 \xhh	Hex value
 
 
+
 # Python Arithmetic Operators
 
 Arithmetic operators are used with numeric values to perform common mathematical operations:
@@ -252,7 +253,3 @@ fruits = ["apple", "banana", "cherry"]
 for x in adj:
   for y in fruits:
     print(x, y)
-    
-    
-    
-    
