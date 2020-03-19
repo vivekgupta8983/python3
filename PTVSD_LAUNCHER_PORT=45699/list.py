@@ -11,3 +11,6 @@ odd_list = ['3', '5', '7', '9']
 num = even_list +odd_list
 num.sort()
 print(num)
+
+x = sorted(num)
+print(x)
