@@ -10,6 +10,8 @@ print(car['color'])
 car['cc'] = 650
 print(car)
 
-del car['Name']
+del car['Name']  # delete only Index Item
+
+del car # delete whole dictionary
 
 print(car)
